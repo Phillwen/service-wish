@@ -1,0 +1,17 @@
+{
+    "name": "toplatform/service-wish",
+    "description": "The different Platform Api Package",
+    "authors": [
+        {
+            "name": "Phillwen",
+            "email": "303167578@qq.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "service\\wish\\": "src"
+        }
+    }
+}
