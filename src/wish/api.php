@@ -9,9 +9,12 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace think\queue\job;
+namespace service\wish;
 
-class Api extends Job
+class Api
 {
-
+   public function index()
+   {
+     echo 'ok';
+   }
 }
