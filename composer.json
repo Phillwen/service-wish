@@ -13,10 +13,5 @@
         "psr-4": {
             "service\\wish\\": "src"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
     }
 }
